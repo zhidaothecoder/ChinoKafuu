@@ -323,6 +323,11 @@
         "permissions": "Permissões",
         "createdAt": "Conta criada"
     },
+    "remember": {
+        "example": "Exemplo de como usar o comando: k.remember 1min dizer bom dia a todos",
+        "time": "Tempo:",
+        "reminder": "Lembrete"
+    },
     "volume": {
         "volume": "volume alterado para `{{volume}}/150` com sucesso.",
         "hisVol": "o volume atual é `{{volume}}/150`",
